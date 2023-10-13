@@ -18,7 +18,7 @@ Libraries: Pandas, NumPy, Seaborn, Matplotlib
 
 ![pycvdq](https://github.com/shaikhazhar689/Python_Project_Covid_19_India/assets/134381942/6ab75b8c-b1c0-4691-b56b-8431cc858633)
 
-### Glipses Of Findings
+### Glimpses Of Findings
 
 ***Most Affected States*** Kerala, Uttar Pradesh, Tamil Nadu, Karnataka, and Maharashtra experienced the highest number of COVID-19 cases. Among ***most active cases*** Maharashtra topped the list, followed by Karnataka.
 
